@@ -18,9 +18,11 @@
   "homepage": "https://github.com/daru23/gatsby-strapi#readme",
   "dependencies": {
     "@material-ui/core": "^1.4.1",
+    "classnames": "^2.2.6",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "react-icons": "^2.2.7",
     "react-router-dom": "^4.3.1"
   },
   "devDependencies": {
