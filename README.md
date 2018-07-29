@@ -1,2 +1,2 @@
-# gatsby-strapi
-Gatsby and Strapi Blog project
+# blog-strapi
+Strapi Blog project
